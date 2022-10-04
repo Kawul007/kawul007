@@ -6,7 +6,8 @@
 - 🏃  Front-end Developer/BA/IT Support
 - 🚗 [Kawul`s-web](https://kawul007.github.io/personal-web/)
 - 🏤 kai423455@gmail.com
-- 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)/n
+- 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)\br
+<img src="https://github.com/Kawul007/kawul007/blob/main/jump.gif",width="50px",height="50px"/>
 ![](https://github.com/Kawul007/kawul007/blob/main/jump.gif)
 ![](https://github.com/Kawul007/kawul007/blob/main/rick.gif)
 ![](https://github.com/Kawul007/kawul007/blob/main/yellow.gif)
