@@ -1,5 +1,5 @@
 ### Yoo, I'm Kawul 👋
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=synthwave&hide_rank=false&hide=Total PRs&hide=Total Issues)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=synthwave&hide_rank=false&hide-title=Total PRs&hide=Total Issues)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawul007&layout=compact&theme=tokyonight)](https://github.com/Kawul007/github-readme-stats)
 - 🎓 Chongqing University,CHINA, _BSc in Computer Science_
 - ⚡ JavaScrip/tHTML/CSS/React/Java/Springboot/MySQL
