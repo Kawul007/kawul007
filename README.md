@@ -7,4 +7,8 @@
 - 🚗 [Kawul`s-web](https://kawul007.github.io/personal-web/)
 - 🏤 kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)
-![](https://github.com/Kawul007/kawul007/blob/main/homer.gif)
+![](https://github.com/Kawul007/kawul007/blob/main/jump.gif)
+![](https://github.com/Kawul007/kawul007/blob/main/rick.gif)
+![](https://github.com/Kawul007/kawul007/blob/main/yellowr.gif)
+![](https://github.com/Kawul007/kawul007/blob/main/police.gif)
+
