@@ -7,9 +7,9 @@
 - 🚗 [Kawul`s-web](https://kawul007.github.io/personal-web/)
 - 🏤 kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)</br>
-<img src="https://github.com/Kawul007/kawul007/blob/main/jump.gif" width="50px" height="50px" alt="ha"/>
-<img src="https://github.com/Kawul007/kawul007/blob/main/yellow.gif" width="50px" height="50px" alt="ha"/>
-<img src="https://github.com/Kawul007/kawul007/blob/main/rick.gif" width="50px" height="50px" alt="ha"/>
-<img src="https://github.com/Kawul007/kawul007/blob/main/police.gif" width="50px" height="50px" alt="ha"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/jump.gif" width="50px" height="50px" alt="ha" display="inline-block"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/yellow.gif" width="50px" height="50px" alt="ha" display="inline-block"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/rick.gif" width="50px" height="50px" alt="ha" display="inline-block"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/police.gif" width="50px" height="50px" alt="ha" display="inline-block"/>
 
 
