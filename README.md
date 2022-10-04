@@ -5,6 +5,6 @@
 - ⚡ JavaScrip/HTML/CSS/React/Java/Springboot/MySQL
 - 🏃  Front-end Developer/BA/IT Support
 - 🚗 [Kawul`s-web](https://kawul007.github.io/personal-web/)
-- 🏤 [Mail-Box]kai423455@gmail.com
+- 🏤 👉kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)
 ![](https://github.com/Kawul007/kawul007/blob/main/homer.gif&width=600px&height=100px)
