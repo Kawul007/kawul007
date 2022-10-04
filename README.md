@@ -8,8 +8,8 @@
 - 🏤 kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)</br>
 <img src="https://github.com/Kawul007/kawul007/blob/main/jump.gif" width="50px" height="50px" alt="ha"/>
-![](https://github.com/Kawul007/kawul007/blob/main/jump.gif)
-![](https://github.com/Kawul007/kawul007/blob/main/rick.gif)
-![](https://github.com/Kawul007/kawul007/blob/main/yellow.gif)
-![](https://github.com/Kawul007/kawul007/blob/main/police.gif)
+<img src="https://github.com/Kawul007/kawul007/blob/main/yellow.gif" width="50px" height="50px" alt="ha"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/rick.gif" width="50px" height="50px" alt="ha"/>
+<img src="https://github.com/Kawul007/kawul007/blob/main/police.gif" width="50px" height="50px" alt="ha"/>
+
 
