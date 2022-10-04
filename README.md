@@ -1,5 +1,5 @@
 ### Yoo, I'm Kawul 👋
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=radical)]()
 - 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
