@@ -7,4 +7,4 @@
 - 🏃  Front-end Developer/BA/IT Support
 - 🥋 Reading/Cooking/Exercise/Photograth
 - 🍕  Everything~~  
-[!image](https://github.com/Kawul007/kawul007/homer.gif)
+[!image](https://github.com/Kawul007/kawul007/blob/main/homer.gif)
