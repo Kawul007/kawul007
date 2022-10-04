@@ -7,4 +7,4 @@
 - 🏃  Front-end Developer/BA/IT Support/
 - 🥋 Reading/Cooking/Exercise/Photograth
 - 🍕  Everything~~  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kawul007&repo=github-readme-stats)](https://github.com/Kawul007/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kawul007&repo=personal-web)](https://github.com/Kawul007/personal-web)
