@@ -4,7 +4,7 @@
 - 👨‍🎓 Chongqing University,CHINA, _BSc in Computer Science_
 - ⚡ JavaScrip/HTML/CSS/React/Java/Springboot/MySQL
 - 🏃  Front-end Developer/BA/IT Support
-- 🚗 [Kawul`s-web](https://kawul007.github.io)
+- 🚗 [Kawu`s-web](https://kawul007.github.io)
 - 🏤 kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)</br>
 <center class="half">
