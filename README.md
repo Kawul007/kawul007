@@ -2,8 +2,7 @@
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=tokyonight&line_height=20&card_width=400px)]()
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawul007&layout=compact&theme=tokyonight&card_width=300px)](https://github.com/Kawul007/github-readme-stats)
 - 👨‍🎓 Chongqing University,CHINA, _BSc in Computer Science_
-- ⚡ JavaScrip/HTML/CSS/React/Java/Springboot/MySQL
-- <img src="https://img.shields.io/badge/-css-blue"><img src="https://img.shields.io/badge/-JavaScript-purple"><img src="https://img.shields.io/badge/-HTML-brightgreen"><img src="https://img.shields.io/badge/-React-%2333FFDA"><img src="https://img.shields.io/badge/-Java-%23FF8D33"><img src="https://img.shields.io/badge/-SpringBoot-%23FF4933"><img src="https://img.shields.io/badge/-MySQL-%2333C4FF">
+- ⚡ <img src="https://img.shields.io/badge/-css-blue">&nbsp;<img src="https://img.shields.io/badge/-JavaScript-purple"> <img src="https://img.shields.io/badge/-HTML-brightgreen"><img src="https://img.shields.io/badge/-React-%2333FFDA"><img src="https://img.shields.io/badge/-Java-%23FF8D33"><img src="https://img.shields.io/badge/-SpringBoot-%23FF4933"><img src="https://img.shields.io/badge/-MySQL-%2333C4FF">
 - 🏃  Front-end Developer/BA/IT Support
 - 🚗 [Kawu`s-web](https://kawul007.github.io)
 - 🏤 kai423455@gmail.com
