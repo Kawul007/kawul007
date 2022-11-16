@@ -3,6 +3,7 @@
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawul007&layout=compact&theme=tokyonight&card_width=300px)](https://github.com/Kawul007/github-readme-stats)
 - 👨‍🎓 Chongqing University,CHINA, _BSc in Computer Science_
 - ⚡ JavaScrip/HTML/CSS/React/Java/Springboot/MySQL
+- <img src="https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0-css-blue">
 - 🏃  Front-end Developer/BA/IT Support
 - 🚗 [Kawu`s-web](https://kawul007.github.io)
 - 🏤 kai423455@gmail.com
