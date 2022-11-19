@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=300&height=40&lines=Yoo+%2C+I%60m+Kawul+;Welcome+to+my+github!!)](https://git.io/typing-svg)
 
-<img src="https://github.com/kawul007/kawul007/output/github-snake.gif?raw=true" />
+<img src="https://github.com/kawul007/kawul007/blob/output/github-snake.gif?raw=true" >
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=tokyonight&line_height=20&card_width=400px)]()
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawul007&layout=compact&theme=tokyonight&card_width=300px)](https://github.com/Kawul007/github-readme-stats)
