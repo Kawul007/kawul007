@@ -1,4 +1,5 @@
 ## Yoo, I'm Kawul 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=tokyonight&line_height=20&card_width=400px)]()
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawul007&layout=compact&theme=tokyonight&card_width=300px)](https://github.com/Kawul007/github-readme-stats)
 - 👨‍🎓 Chongqing University,CHINA, _BSc in Computer Science_
