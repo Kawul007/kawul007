@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=300&height=40&lines=Yoo+%2C+I%60m+Kawul+;Welcome+to+my+github!!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=350&height=40&lines=console.log(%22+WELCOME!~+%22);Yoo%2C+I%60m+Kawul+)](https://git.io/typing-svg)
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=tokyonight&line_height=20&card_width=400px)]()
@@ -10,7 +10,6 @@
 - 🏤 kai423455@gmail.com
 - 👦 [LinkedIn](https://www.linkedin.com/in/kawul4234/)</br>
 
-<img src="https://github.com/kawul007/kawul007/blob/output/github-snake.gif?raw=true" >
 
 <center class="half">
 <img src="https://github.com/Kawul007/kawul007/blob/main/jump.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/yellow.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/rick.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/police.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/hh.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/plicecar.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/fish.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/frog.gif" width="50px" height="50px" alt="ha" align=left><img src="https://github.com/Kawul007/kawul007/blob/main/bread.gif" width="50px" height="50px" alt="ha" align=left>
