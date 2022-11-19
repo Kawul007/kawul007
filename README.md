@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=350&height=40&Yoo%2C+I%60m+Kawul;lines=console.log(%22+WELCOME!~+%22)+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=350&height=40&lines=Yoo%2C+I%60m+Kawul+;console.log(%22+WELCOME+%22))](https://git.io/typing-svg)
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Kawul007&show_icons=true&theme=tokyonight&line_height=20&card_width=400px)]()
